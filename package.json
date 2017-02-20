@@ -1,0 +1,19 @@
+{
+  "name": "http_request",
+  "version": "0.9.9",
+  "description": "test",
+  "main": "http_request.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "request",
+    "http"
+  ],
+  "author": {
+    "name": "pengng",
+    "email": "870788308@qq.com"
+  },
+  "license": "MIT"
+}
